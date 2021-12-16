@@ -1,16 +1,17 @@
-### Hi there 👋
+ Hello there 👋
 
-<!--
-**saurabh-singh-au13/saurabh-singh-au13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working as a Software Developer at Classic Informatics
+- 🌱 I’m currently learning Advanced Backend 
+- 💬 Ask me about Advanced JavaScript. 
+- 📫 How to reach me:
+-     [Saurabh @Linkedin](https://www.linkedin.com/in/saurabh-kumar-singh-904a11190/)
+      [Saurabh @Instagram](https://www.instagram.com/__user__not__found__404/)
+      [Saurabh @Facebook](https://www.facebook.com/S.Rajvansh001)
+      [Saurabh @Hackerrank](https://www.hackerrank.com/Saurabh01Singh)
+      [Saurabh @Twitter](https://twitter.com/Saurabh33028457)
+      [Saurabh @Git](https://github.com/saurabh-singh-au13)
+- 😄 Pronouns: SaaaaaaUrabh
+- ⚡ Fun fact: Cynophobia 
 -->
