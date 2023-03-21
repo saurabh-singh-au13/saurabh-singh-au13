@@ -14,11 +14,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-singh-au13" alt="saurabh-singh-au13" /></a> </p>
 
-<p align="left"> <a href="https://twitter.com/saurabh33028457" target="blank"><img src="https://img.shields.io/twitter/follow/saurabh33028457?logo=twitter&style=for-the-badge" alt="saurabh33028457" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/s.rajvansh.96/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="s.rajvansh.96" /></a> </p>
 
 - 🔭 I’m currently working on **Classic Informatics**
 
-- 🌱 I’m Software Developer create Website for your business 🔥🔥 *
+- 🌱 I’m Software Developer create Website for your business 🔥🔥 
 
 - 💬 Ask me about **JavaScript, Reac.js**
 
