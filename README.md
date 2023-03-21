@@ -14,7 +14,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=saurabh-singh-au13" alt="saurabh-singh-au13" /></a> </p>
 
-<p align="left"> <a href="https://www.instagram.com/s.rajvansh.96/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="s.rajvansh.96" /></a> </p>
+<p align="left"> <a href="https://www.instagram.com/s.rajvansh.96/" target="blank"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="s.rajvansh.96" />Follow Me 🇮🇳 </a> </p>
 
 - 🔭 I’m currently working on **Classic Informatics**
 
